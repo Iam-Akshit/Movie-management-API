@@ -12,7 +12,7 @@ The application is deployed live on Render using Docker containers.
 
 **Test Endpoints Live:**
 1. **Get All Movies:** 
-(https://movie-api-akshit.onrender.com/api/movies)
+(https://movie-management-api-kh9s.onrender.com/api/movies)
 2. **Add Movie (POST):** Use Postman or curl to send a POST request to the URL above.
 
 ---
